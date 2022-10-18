@@ -1,7 +1,7 @@
 What would Decentralized version of a game like Monopoly be like if theres no central server?
 
 
-We need to keep track of accounts?
+We need to keep track of accounts!
 
 We need to make sure to have a mapping of balances!
 
