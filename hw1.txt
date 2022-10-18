@@ -1,0 +1,35 @@
+What would Decentralized version of a game like Monopoly be like if theres no central server?
+
+
+We need to keep track of accounts?
+
+We need to make sure to have a mapping of balances!
+
+We need to ensure random number mechanism is in place for roll of the dice. Chainlink Vrf!
+
+
+
+MonopolyGame.sol
+
+
+State Variable:
+
+ERC20Token private _token;    // to participate in game you have to have "MonopolyToken"
+
+
+Modifiers:
+
+modifier onlyMember() {  ////  Access Control!!!!!!!! onlyMember can buy()
+        
+        require(_token.balanceOf(msg.sender) > 0, 'member has no token');
+        _;
+    }
+
+
+
+
+Functions:
+     
+        function buy() public payable onlyMember 
+
+
