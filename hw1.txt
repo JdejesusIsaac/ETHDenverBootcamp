@@ -8,6 +8,9 @@ We need to make sure to have a mapping of balances!
 We need to ensure random number mechanism is in place for roll of the dice. Chainlink Vrf!
 
 
+But First. lets think security. 
+access controls!
+
 
 MonopolyGame.sol
 
