@@ -1,0 +1,41 @@
+Using BlockChain explorer what do these transactions do?
+
+Transaction 1: 0x0ec3f2488a93839524add10ea229e773f6bc891b4eb4794c3337d4495263790b
+
+    I see a TRANSFER  of  258.056564760381731336 Ether From TheDAO Token  (0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413) to TheDarkDAO (0x304a554a310C7e546dfe434669C62820b7D83490)
+
+    TRANSFER  137.62451099999999 Ether From 0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89 To  0xf35e2cc8e6523d683ed44870f5b7cc785051a77d
+    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
+    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
+    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
+    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
+    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
+    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
+    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
+    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
+    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
+    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
+    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
+    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
+    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
+    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
+    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
+    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
+    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
+    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
+
+
+Transaction 2: 0x4fc1580e7f66c58b7c26881cce0aab9c3509afe6e507527f30566fbf8039bcd0
+
+     From: 0x9c33eacc2f50e39940d3afaf2c7b8246b681a374 (Uniswap: Deployer 2) 
+
+    To: [Contract 0x7a250d5630b4cf539739df2c5dacb4c659f2488dCreated] (Uniswap V2: Router 2) // did deployer 2 Create router2 contract????!!
+
+
+ Transaction 3: 0x552bc0322d78c5648c5efa21d2daa2d0f14901ad4b15531f1ab5bbe5674de34f
+
+    From: 0xc8a65fadf0e0ddaf421f28feab69bf6e2e589963 (PolyNetwork Exploiter 1) 
+
+    To: 0xc8a65fadf0e0ddaf421f28feab69bf6e2e589963 (PolyNetwork Exploiter 1) ///
+
+
