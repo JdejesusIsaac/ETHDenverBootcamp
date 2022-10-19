@@ -9,20 +9,7 @@ Transaction 1: 0x0ec3f2488a93839524add10ea229e773f6bc891b4eb4794c3337d4495263790
     TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
     TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
     TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
-    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
-    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
-    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
-    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
-    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
-    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
-    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
-    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
-    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
-    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
-    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
-    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
-    TRANSFER  258.056564760381731336 Ether From TheDAO Token To  TheDarkDAO
-    TRANSFER  0.000000022190537131 Ether From DaoManagedAcct To  0xc0ee9db1a9e07ca63e4ff0d5fb6f86bf68d47b89
+  
 
 
 Transaction 2: 0x4fc1580e7f66c58b7c26881cce0aab9c3509afe6e507527f30566fbf8039bcd0
@@ -32,10 +19,111 @@ Transaction 2: 0x4fc1580e7f66c58b7c26881cce0aab9c3509afe6e507527f30566fbf8039bcd
     To: [Contract 0x7a250d5630b4cf539739df2c5dacb4c659f2488dCreated] (Uniswap V2: Router 2) // did deployer 2 Create router2 contract????!!
 
 
+ 
  Transaction 3: 0x552bc0322d78c5648c5efa21d2daa2d0f14901ad4b15531f1ab5bbe5674de34f
 
     From: 0xc8a65fadf0e0ddaf421f28feab69bf6e2e589963 (PolyNetwork Exploiter 1) 
 
     To: 0xc8a65fadf0e0ddaf421f28feab69bf6e2e589963 (PolyNetwork Exploiter 1) ///
+
+    Value: 0 Ether ($0.00) Transaction Fee:0.002404 Ether ($3.12) This made me curious??He paid for something if he didnt transfer! So i checked inPut data.  
+
+    Input Data: 0x495420574f554c442048415645204245454e20412042494c4c494f4e204841434b204946204920484144204d4f5645442052454d41494e494e472053484954434f494e5321204449442049204a5553542053415645205448452050524f4a4543543f0a4e4f5420534f20494e544552455354454420494e204d4f4e45592c204e4f5720434f4e5349444552494e472052455455524e494e4720534f4d4520544f4b454e53204f52204a555354204c454156494e47205448454d2048455245
+
+    Convert ByteCode String lol!!!! https://onlinestringtools.com/convert-bytes-to-string
+
+    IT WOULD HAVE BEEN A BILLION HACK IF I HAD MOVED REMAINING SHITCOINS! DID I JUST SAVE THE PROJECT?
+    NOT SO INTERESTED IN MONEY, NOW CONSIDERING RETURNING SOME TOKENS OR JUST LEAVING THEM HERE
+
+
+
+
+
+Transaction 4: 0x7a026bf79b36580bf7ef174711a3de823ff3c93c65304c3acc0323c77d62d0ed
+
+    From: 0xc8a65fadf0e0ddaf421f28feab69bf6e2e589963 (PolyNetwork Exploiter 1) 
+
+    Interacted With (To): Contract 0x6b175474e89094c44da98b954eedeac495271d0f (Maker: Dai Stablecoin) 
+
+
+    ERC-20 Tokens Transferred:
+    From PolyNetwork Exploiter 1 To 0x34d6b21d7b773225a102b382815e00ad876e23c2 For 96,942,062.859278579158967305 ($96,901,153.31)Dai Stableco... (DAI)
+
+    Sheesh $96,901,153.31????????????????????
+
+
+    https://etherscan.io/address/0xc8a65fadf0e0ddaf421f28feab69bf6e2e589963
+
+
+
+Transaction 5: 0x814e6a21c8eb34b62a05c1d0b14ee932873c62ef3c8575dc49bcf12004714eda   ///////
+
+    From: 0x583e25de879e90cf5fc637f8dc16db8f10d91c17 
+    
+    To: 0xa87fb85a93ca072cd4e5f0d4f178bc831df8a00b (PolyNetwork Exploiter 2)
+
+    Value: 160 Ether ($208,046.40)
+    Transaction Fee:  0.00105 Ether ($1.37)
+
+
+
+
+ERC-20 Token Transfer Events
+
+ "to" Contract:  (PolyNetwork Exploiter 2) 0xa87fb85a93ca072cd4e5f0d4f178bc831df8a00b  //INTERESTING!!1
+ 
+ 	Txn Hash						                                        Age                             From                                        To               Value      Token
+
+    0xde5f0f2a2a2eca1f2db8666ce4df8ea639b01925e3ad61ae5444fbb774577dc8	422 days 1 hr ago	0x4ed07ef37975decae494070744a399f405c666d7	 IN 	PolyNetwork Exploiter 2	 70,000	    O3 Swap Toke... (O3)
+    
+    0xe27c745b3975a514762c11add260599b8af3b9ae50b5ed39c7141876ac42c0bc	431 days 7 hrs ago	                Binance 16	                 IN 	PolyNetwork Exploiter 2	  15	    Tether USD (USDT)
+    
+    0xb6f6f7e0581a8f0845dfe95d4d4b90e00e9cf0187ff96cac2dd8747bfa7eab6b	431 days 21 hrs ago	0x575b2c18bbfdcb2386a4d28d0ce8bf0c62d69324	 IN 	PolyNetwork Exploiter 2	  20	    SUM (SUM)
+   
+    0x3ed4996612c45e7560a60e36ef0fc33609ba0e1ac35011ed6cc08d2f0243d41f	432 days 2 hrs ago	    ENS Name zenfuse.eth	                 IN 	PolyNetwork Exploiter 2	 1,337	Zenfuse Trad... (ZEFU)
+    
+    0xb2ad029d039229c1fe09d76fee8c66600a09f904672479c774d2a33bca66b0e4	432 days 3 hrs ago	0x2e155586d5902f830a1c5c609ced6987f3b8b946	 IN 	PolyNetwork Exploiter 2	 1,000	    Enumivo (ENU)
+    
+    0x72cb8ad0c3dd335828a63906069dd1c6e83ea84f1547ed475556b1904b8abc30	433 days 22 hrs ago	0x474aab9dccd74998066e45db6a06d808f3fd85a4	 IN 	PolyNetwork Exploiter 2	 69	    ERC-20: Pol.....lub
+    
+    0x5dc40bf874b7eed578d02fc9cfb66378ff8a0cc6cf00a3e0fd5ece2e95c2d1b6	433 days 22 hrs ago	0x474aab9dccd74998066e45db6a06d808f3fd85a4	 IN 	PolyNetwork Exploiter 2	 69	    ERC-20: Pol.....lub
+    
+    0x233f43bf054e3909a183da933051196b467cfa18d35ee05ea907264e128c35b8	433 days 22 hrs ago	0x474aab9dccd74998066e45db6a06d808f3fd85a4	 IN 	PolyNetwork Exploiter 2	 69	    ERC-20: Pol.....lub
+    
+    0x7b771e888c409675d2fbc955104a6e0e299805b8d95669c6e19987ec7d5e61fd	433 days 22 hrs ago	0x72e8146e93b12bc18c97683ba219ca6b03022b65	 IN 	PolyNetwork Exploiter 2	100	    DxSale.Netwo... (SALE)
+    
+    0x7cea2d9fde440aa5eb8326681ca073743fbc54efb79ecdaca69009ba85d1ead2	433 days 23 hrs ago	0x474aab9dccd74998066e45db6a06d808f3fd85a4	 IN 	PolyNetwork Exploiter 2	 69	    ERC-20: Pol.....lub
+    
+    0x19b7b22ba0657b7ee78e8cef4ed1157ce6f4f070fd717f3f3e6ce0ac2f167caa	433 days 23 hrs ago	0x474aab9dccd74998066e45db6a06d808f3fd85a4	 IN 	PolyNetwork Exploiter 2	 69	 ERC-20: Pol.....lub
+    
+    0x0a5dcb423b0c7c20f77cf2abedca8d9cf5e2a46ae0ed76d55f2e883e3bb522cb	433 days 23 hrs ago	0x474aab9dccd74998066e45db6a06d808f3fd85a4	 IN 	PolyNetwork Exploiter 2	 69	 ERC-20: Pol.....lub
+
+    
+    
+    
+    "from" Contract: 0x583E25dE879e90cF5fC637F8Dc16Db8F10D91C17
+
+
+ Txn Hash						                                        Age                             From                                        To                                              Value               Token
+
+    0x7ddf84d386aedea9d9187ebfa6f1612b0a81b16fb5ca4c47f076b9b6b8d9c9ba	14 days 5 hrs ago	0x3af4788ade7a75b90c0d8f59017f3ef56b51b84e	    IN 	    0x583e25de879e90cf5fc637f8dc16db8f10d91c17	137,001,000,000,000,000	    ERC-20: len.....hop
+
+    0xb783e5a2641993607155c1ecc19cf73e5d3dc054440aa0cb5ea1675625103c17	24 days 19 hrs ago	0x3af4788ade7a75b90c0d8f59017f3ef56b51b84e	    IN 	    0x583e25de879e90cf5fc637f8dc16db8f10d91c17	137,001,000,000,000,000	    ERC-20 TOKEN*
+
+    0xf05f58ca3c89791b7f6bbe57ac6fd545b239de7ef16b668dd24b406d7958dde5	27 days 19 hrs ago	0x583e25de879e90cf5fc637f8dc16db8f10d91c17	    OUT	    0x71be49723038ef53576bdf27b19d2e051de4ae69	        4,999.725015	    Tether USD (USDT)
+
+    0xf38d84d9e8138dcd24670b7733c3609a1d0af35aa33848d87e66432782ceb4b1	420 days 3 hrs ago	0x583e25de879e90cf5fc637f8dc16db8f10d91c17	    OUT	    0x5756b24c94ae988bd996936050d558ef3ff5b822	        17,600	            Tether USD (USDT)
+
+    0x780cb4acd1056ecde129741ed0474aaf0005f720754d7929e7cb383815963325	420 days 3 hrs ago	Binance 18	                                    IN 	    0x583e25de879e90cf5fc637f8dc16db8f10d91c17	        50,000              Tether USD (USDT)
+
+    0x3b16cbc2bcffd2f44953336e46d329ec1bdeca318e8a023cbf369ef154b281ce	422 days 8 hrs ago	0x0e860f44d73f9fdbaf5e9b19afc554bf3c8e8a57	    IN 	    0x583e25de879e90cf5fc637f8dc16db8f10d91c17	        3,285.690043	     USD Coin (USDC)
+
+    0x70b4e204c0c6bf404d8db8789ecd8327bfbc6b669811c82eb51981618de69392	422 days 9 hrs ago	0x583e25de879e90cf5fc637f8dc16db8f10d91c17	    OUT	    0x8ab7daa24788b6cc5e2900267978d533ebd03133	        180,000	             Tether USD (USDT)
+
+    0xc7948d867f905597ecbc41899db6a2830aa5ad65bc1dad8f164083a1c0de411e	422 days 9 hrs ago	0x6dab3bcbfb336b29d06b9c793aef7eaa57888922	    IN 	    0x583e25de879e90cf5fc637f8dc16db8f10d91c17	         180,000	         Tether USD (USDT)
+    
+    
+    
+    
 
 
