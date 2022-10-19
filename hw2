@@ -168,6 +168,22 @@ ERC-20 Token Transfer Events
     0xc7948d867f905597ecbc41899db6a2830aa5ad65bc1dad8f164083a1c0de411e	422 days 9 hrs ago	0x6dab3bcbfb336b29d06b9c793aef7eaa57888922	    IN 	    0x583e25de879e90cf5fc637f8dc16db8f10d91c17	         180,000	         Tether USD (USDT)
     
     
+   
+   What is special about accounts below:
+   
+   0x1Db3439a222C519ab44bb1144fC28167b4Fa6EE6 Vitalik Buterin 2 Wallet
+
+    
+    https://etherscan.io/address/0xab5801a7d398351b8be11c439e05c5b3259aec9b Vitaliks 1st wallet.
+    
+    https://etherscan.io/tx/0x510616256eaba7fe48f961bedf037af06a462baf02bb140122f806d42f22113c
+    must be Vitaliks wallet just converted some input data to string.. Message seeems welcoming.
+    
+    
+    
+    
+    
+    
     
     
 
