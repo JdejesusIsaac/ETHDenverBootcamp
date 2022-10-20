@@ -180,6 +180,11 @@ ERC-20 Token Transfer Events
     must be Vitaliks wallet just converted some input data to string.. Message seeems welcoming.
     
     
+    what is a genesis address on ethereum?
+    The genesis block is a special block which was mined by nobody and therefore is associated with the account 0x0000000000000000000000000000000000000000. It's impossible to generate the private key for this address and people can use it as proof-of-burn account on the Ethereum blockchain.
+    
+    https://crypto.news/ethereum-genesis-address-black-hole-520-million-worth-tokens/
+    
     
     
     
