@@ -17,16 +17,27 @@ MonopolyGame.sol
 
 State Variable:
 
-ERC20Token private _token;    // to participate in game you have to have "MonopolyToken"
-
+ERC20Token private _token; // to participate in game you have to have "MonopolyToken"
+address public owner;
 
 Modifiers:
 
 modifier onlyMember() {  ////  Access Control!!!!!!!! onlyMember can buy()
         
         require(_token.balanceOf(msg.sender) > 0, 'member has no token');
+        
         _;
     }
+    
+    modifier onlyOwner() {  ////  Access Control!!!!!!!! onlyOwner can b
+        require(owner == msg.sender);
+        
+        
+        _;
+    }
+    
+        
+       
 
 
 
